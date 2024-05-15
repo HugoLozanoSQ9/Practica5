@@ -1,0 +1,25 @@
+{
+  "name": "practica5",
+  "version": "1.0.0",
+  "description": "'Practica 5, we have to create a directory with names :D!'",
+  "main": "index.js",
+  "scripts": {
+    "start":" node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HugoLozanoSQ9/Practica5.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "HugoLozanoSQ9",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HugoLozanoSQ9/Practica5/issues"
+  },
+  "homepage": "https://github.com/HugoLozanoSQ9/Practica5#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
