@@ -28,7 +28,7 @@ while (continuar) {
         console.log('este no es un nombre, ¿podrías intentarlo nuevamente?')
     }
     else {
-        lista.push(name)
+        lista.push(name.toLowerCase())
     }
 
 
